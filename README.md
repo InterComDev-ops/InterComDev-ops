@@ -79,14 +79,22 @@
 🛠️ Efficient Problem Solver 🛠️<br><br>
 🤝 Dedicated to Delivering Quality on Time 🤝</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+## 📊 Activity & Stats
 
-<div align="center">
-  <h2>✨ My GitHub Contribution Activity ✨</h2>
-  
-  <!-- Beautiful Contribution Line Chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterComDev-ops&bg_color=1A2327&color=00ffd0&line=00cfff&point=ffffff&area=true&hide_border=true&custom_title=InterComDev-ops's Contribution Graph" alt="GitHub Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolveEve&show_icons=true&theme=radical&hide_rank=false&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolveEve&theme=radical&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolveEve&theme=react-dark&area=true&hide_border=true"/>
+</p>
+## Git profile Trophies :trophy:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&theme=radical&margin-w=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+  <img alt="Rejoyan Islam Github Trophies" src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+</picture>>
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dragon0513&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
