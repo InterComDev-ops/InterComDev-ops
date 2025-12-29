@@ -78,6 +78,14 @@
 🌍 Responsive Designs for All Devices 🌍<br><br>
 🛠️ Efficient Problem Solver 🛠️<br><br>
 🤝 Dedicated to Delivering Quality on Time 🤝</p>
+
+<div align="center">
+  <h2>✨ My GitHub Contribution Activity ✨</h2>
+  
+  <!-- Beautiful Contribution Line Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterComDev-ops&bg_color=1A2327&color=00ffd0&line=00cfff&point=ffffff&area=true&hide_border=true&custom_title=InterComDev-ops's Contribution Graph" alt="GitHub Activity Graph"/>
+</div>
+
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dragon0513&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
