@@ -82,11 +82,11 @@
 ## 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolveEve&show_icons=true&theme=radical&hide_rank=false&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolveEve&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InterComDev-ops&show_icons=true&theme=radical&hide_rank=false&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InterComDev-ops&theme=radical&hide_border=true" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolveEve&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InterComDev-ops&theme=react-dark&area=true&hide_border=true"/>
 </p>
 ## Git profile Trophies :trophy:
 
